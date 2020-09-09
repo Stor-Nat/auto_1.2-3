@@ -1,0 +1,1 @@
+# CI DEMO [![Build status](https://ci.appveyor.com/api/projects/status/u9you0hbfj5nowat?svg=true)](https://ci.appveyor.com/project/Stor-Nat/auto-1-2-3)
